@@ -1,0 +1,7 @@
+.mb-stack{
+    padding: 5%;
+    align-items: center;
+    text-align: left;
+    display: flex;
+    max-width: 100%;
+}
