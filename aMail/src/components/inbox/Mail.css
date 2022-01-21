@@ -1,0 +1,8 @@
+.mail{
+    justify-content: space-evenly;
+    min-height: 10%;
+}
+
+.mail-col{
+    min-width: 45px;
+}
