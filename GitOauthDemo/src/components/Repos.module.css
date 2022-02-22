@@ -1,0 +1,8 @@
+.lgItem {
+    padding: 0 5px;
+}
+
+.theaders {
+    display: flex;
+    flex-direction: row;
+}

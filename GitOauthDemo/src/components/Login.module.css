@@ -1,0 +1,22 @@
+
+.loginCard {
+    justify-content: center;
+    align-items: center;
+    height: 20rem;
+    width: 20rem;
+    margin: 5rem auto;
+    text-align: center;
+    box-shadow: 2px 2px 5px slategrey ;
+}
+
+.title{
+    padding-top: 2rem;
+    font-size: 2rem;
+}
+
+.loginBtn {
+    margin-top: 3rem;
+    text-align: center;
+    padding: 0.5rem;
+    border-radius: 5px;
+}
