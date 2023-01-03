@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  background: center / cover no-repeat url('../../../public/layered-peaks-haikei.png');
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+
+
